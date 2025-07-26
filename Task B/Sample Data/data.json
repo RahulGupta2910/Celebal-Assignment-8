@@ -1,0 +1,45 @@
+[
+  {
+    "customer_id": 101,
+    "name": "Rahul Gupta",
+    "email": "rahul.gupta@example.com",
+    "address": {
+      "street": "123 Sector 17",
+      "city": "Chandigarh",
+      "state": "Punjab",
+      "zip": "160017"
+    },
+    "orders": [
+      {
+        "order_id": "ORD001",
+        "order_date": "2025-06-15",
+        "items": [
+          {
+            "item_id": "A1",
+            "product": "Laptop",
+            "price": 75000,
+            "quantity": 1
+          },
+          {
+            "item_id": "A2",
+            "product": "Mouse",
+            "price": 700,
+            "quantity": 2
+          }
+        ]
+      },
+      {
+        "order_id": "ORD002",
+        "order_date": "2025-06-30",
+        "items": [
+          {
+            "item_id": "B1",
+            "product": "Keyboard",
+            "price": 1200,
+            "quantity": 1
+          }
+        ]
+      }
+    ]
+  }
+]
