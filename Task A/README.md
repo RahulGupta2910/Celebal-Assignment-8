@@ -1,29 +1,24 @@
-# **🚀 JSON Flattening with Azure Databricks & ADLS Gen2 (2025)**
+# 🚕 NYC Yellow Taxi Data Analysis using Azure Databricks (2025)
 
-## ** Project Overview**
-This project demonstrates how to **flatten a nested JSON file** stored in **Azure Data Lake Storage Gen2 (ADLS Gen2)** using **Azure Databricks** and **PySpark**, and then write the result as an **external Parquet table**. 
-
-This is particularly useful in data engineering pipelines where semi-structured JSON data must be converted into a structured tabular format for analysis or loading into a data warehouse.
+This project demonstrates how to **load NYC Yellow Taxi trip data into Azure Data Lake/Blob Storage/Databricks** and perform **real-time data analysis using PySpark**.
 
 ---
+## ** Project Summary**
 
-## ** Technologies Used**
-- Microsoft Azure (2025)
-- Azure Resource Group
-- Azure Data Lake Storage Gen2
-- Azure Databricks
-- PySpark (Databricks)
-- Parquet Format
-- Delta Lake (for external tables)
+**Objective**: Perform meaningful queries like revenue calculations, passenger trends, top routes, vendor performance, etc., on January 2020 NYC Yellow Taxi data.
+
+**Tools Used**:
+- **Microsoft Azure 2025**
+- **Azure Resource Group**
+- **Azure Storage Account (ADLS Gen2)**
+- **Azure Databricks**
+- **PySpark**
 
 ---
-## ** Learnings**
-How to handle nested JSON using PySpark
+## ** Key Learnings**
 
-Flattening complex data structures
+- Loading and processing large datasets using PySpark
+- Real-time and batch analytics using Databricks
+- Azure integration with ADLS and Databricks
+- Understanding taxi movement and passenger patterns in NYC
 
-Writing to Parquet format
-
-Creating external tables in Databricks
-
-Working with Azure 2025 environment end-to-end
