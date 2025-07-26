@@ -5,7 +5,7 @@ To load NYC Yellow Taxi data into Azure Data Lake and analyze it using PySpark i
 
 ---
 
-## ** Technologies Used**
+## **Technologies Used**
 
 - **Apache Spark (PySpark)**
 - **Azure Databricks**
@@ -16,7 +16,7 @@ To load NYC Yellow Taxi data into Azure Data Lake and analyze it using PySpark i
 
 ---
 
-## ** Outcomes**
+## **Outcomes**
 
 - Gained experience in **real-time data analysis** using PySpark.
 - Applied **moving window**, **groupBy**, and **aggregation** logic for business insights.
@@ -24,7 +24,7 @@ To load NYC Yellow Taxi data into Azure Data Lake and analyze it using PySpark i
 
 ---
 
-## ** Learning Highlights**
+## **Learning Highlights**
 
 - Hands-on with **PySpark transformations and aggregations**
 - Understand Databricks workflows for **batch and real-time analytics**
@@ -33,7 +33,7 @@ To load NYC Yellow Taxi data into Azure Data Lake and analyze it using PySpark i
 
 ---
 
-## ** Prerequisites**
+## **Prerequisites**
 
 - Azure subscription with:
   - **Azure Data Lake Storage Gen2**
