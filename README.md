@@ -1,6 +1,6 @@
 # Celebal-Assignment-8
 
-## ** Objective**
+## **Objective**
 To load NYC Yellow Taxi data into Azure Data Lake and analyze it using PySpark in Databricks by performing data transformations, revenue calculations, aggregations, and real-time insights, along with flattening JSON files and storing them as external Parquet tables.
 
 ---
