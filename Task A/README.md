@@ -3,7 +3,7 @@
 This project demonstrates how to **load NYC Yellow Taxi trip data into Azure Data Lake/Blob Storage/Databricks** and perform **real-time data analysis using PySpark**.
 
 ---
-## ** Project Summary**
+## **Project Summary**
 
 **Objective**: Perform meaningful queries like revenue calculations, passenger trends, top routes, vendor performance, etc., on January 2020 NYC Yellow Taxi data.
 
@@ -15,7 +15,7 @@ This project demonstrates how to **load NYC Yellow Taxi trip data into Azure Dat
 - **PySpark**
 
 ---
-## ** Key Learnings**
+## **Key Learnings**
 
 - Loading and processing large datasets using PySpark
 - Real-time and batch analytics using Databricks
